@@ -1,0 +1,20 @@
+# Additions on top of the existing `opencood` conda env validated Sat 5 Sep
+# (Python 3.7.11, PyTorch 1.13.1+cu117, spconv-cu117, RTX 4070 Ti / CUDA 11.7).
+# Install into that SAME env — don't create a second one:
+#   conda activate opencood
+#   pip install -r requirements.txt
+
+# P0 — manifest
+pandas>=1.3,<2.0        # pin <2.0 for Python 3.7.11 compatibility
+pyarrow>=6.0             # parquet read/write
+pyyaml>=5.4              # OPV2V per-frame yaml parsing (likely already present via OpenCOOD's own deps)
+
+# P4 — standalone consistency layer (RANSAC + DBSCAN + shapely)
+scikit-learn>=1.0,<1.1   # 1.1+ drops Python 3.7 support
+shapely>=1.8,<2.0        # 2.0 changed the API surface used here (geoms access etc.)
+
+# Testing
+pytest>=7.0
+
+# Optional but useful for the "plot clusters" eyeball check (Thu 3 Sep done-when)
+matplotlib>=3.5

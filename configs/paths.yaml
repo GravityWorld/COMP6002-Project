@@ -1,0 +1,14 @@
+# Fill these in TODAY before running anything — the plan flags this
+# explicitly: "you will write tens of GB in W2 — check the disk has room
+# today, not on the day P3 fails at 90%."
+
+opv2v_root: "CHANGE_ME"        # e.g. D:/data/OPV2V  (the test_culver_city extract from Sat 5 Sep)
+cache_root: "CHANGE_ME"        # where P3's cached detections/BEV features live — needs the most room
+manifest_out: "./cache/manifest.parquet"   # P0 output
+golden_dir: "./P7_evaluation/golden"       # P7 golden files, committed to git
+
+# Sanity check before Week 2 (P3 caching starts Fri 11 Sep):
+#   - Measure per-scenario cost (minutes, GB) on the Fri 11 Sep pilot (~20
+#     scenarios) BEFORE extrapolating to the full run.
+#   - If the full run doesn't fit: cut scenario count, NOT severities or
+#     degradation types — those are load-bearing for Part 3's heterogeneity.

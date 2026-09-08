@@ -1,2 +1,5 @@
 .Masters/
 data/
+*.pyc
+__init__.py
+OpenCOOD/
