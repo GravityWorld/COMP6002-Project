@@ -1,0 +1,4932 @@
+{
+  "seed_vehicle": "6",
+  "target_bucket": "range2_density0",
+  "results": {
+    "static": [
+      {
+        "round": 0,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.8640483383685801,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 1,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.27631578947368424,
+              "same_vehicle_recall": 0.9350453172205438,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.352112676056338,
+              "same_vehicle_recall": 0.974025974025974,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4507042253521127,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 2,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.5131578947368421,
+              "same_vehicle_recall": 0.947129909365559,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.5211267605633803,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7794561933534743,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 3,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.6236842105263158,
+              "same_vehicle_recall": 0.8897280966767371,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.704225352112676,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.6329305135951662,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.6883116883116883,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 4,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.22105263157894736,
+              "same_vehicle_recall": 0.9063444108761329,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.7492447129909365,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 5,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.11842105263157894,
+              "same_vehicle_recall": 0.8640483383685801,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.07894736842105263,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 6,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.13421052631578947,
+              "same_vehicle_recall": 0.8761329305135952,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 7,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8987915407854985,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 8,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.16578947368421051,
+              "same_vehicle_recall": 0.8927492447129909,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 9,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8897280966767371,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 10,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.9063444108761329,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      }
+    ],
+    "traffic": [
+      {
+        "round": 0,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.15526315789473685,
+              "same_vehicle_recall": 0.8640483383685801,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.042105263157894736,
+              "same_vehicle_recall": 0.7779456193353474,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 1,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.0,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.0,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.03684210526315789,
+              "same_vehicle_recall": 0.3972809667673716,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.014084507042253521,
+              "same_vehicle_recall": 0.45454545454545453,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.45263157894736844,
+              "same_vehicle_recall": 0.8610271903323263,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.49295774647887325,
+              "same_vehicle_recall": 0.8896103896103896,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.02631578947368421,
+              "same_vehicle_recall": 0.6132930513595166,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.6428571428571429,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.02631578947368421,
+              "same_vehicle_recall": 0.6132930513595166,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.6428571428571429,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.0,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.0,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.1868421052631579,
+              "same_vehicle_recall": 0.8957703927492447,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.30985915492957744,
+              "same_vehicle_recall": 0.9090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.010526315789473684,
+              "same_vehicle_recall": 0.33081570996978854,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.014084507042253521,
+              "same_vehicle_recall": 0.35714285714285715,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.015789473684210527,
+              "same_vehicle_recall": 0.338368580060423,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.42207792207792205,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.02631578947368421,
+              "same_vehicle_recall": 0.6132930513595166,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.6428571428571429,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.16052631578947368,
+              "same_vehicle_recall": 0.6978851963746223,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.7532467532467533,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.3605263157894737,
+              "same_vehicle_recall": 0.7039274924471299,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.39436619718309857,
+              "same_vehicle_recall": 0.7077922077922078,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.07368421052631578,
+              "same_vehicle_recall": 0.46676737160120846,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.04225352112676056,
+              "same_vehicle_recall": 0.5,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.005263157894736842,
+              "same_vehicle_recall": 0.0513595166163142,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.014084507042253521,
+              "same_vehicle_recall": 0.05844155844155844,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.0,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.0,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 2,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.20526315789473684,
+              "same_vehicle_recall": 0.8746223564954683,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.8526315789473684,
+              "same_vehicle_recall": 0.9848942598187311,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.9295774647887324,
+              "same_vehicle_recall": 0.9935064935064936,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.17105263157894737,
+              "same_vehicle_recall": 0.7145015105740181,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.7337662337662337,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.18157894736842106,
+              "same_vehicle_recall": 0.8957703927492447,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.3526315789473684,
+              "same_vehicle_recall": 0.9531722054380665,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4084507042253521,
+              "same_vehicle_recall": 0.9805194805194806,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.27631578947368424,
+              "same_vehicle_recall": 0.9274924471299094,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4225352112676056,
+              "same_vehicle_recall": 0.974025974025974,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.07105263157894737,
+              "same_vehicle_recall": 0.7658610271903323,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.09859154929577464,
+              "same_vehicle_recall": 0.7662337662337663,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.2868421052631579,
+              "same_vehicle_recall": 0.9335347432024169,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.2026315789473684,
+              "same_vehicle_recall": 0.8836858006042296,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.1868421052631579,
+              "same_vehicle_recall": 0.9018126888217523,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.16578947368421051,
+              "same_vehicle_recall": 0.8217522658610272,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.8831168831168831,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.1646525679758308,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.18831168831168832,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.10526315789473684,
+              "same_vehicle_recall": 0.7643504531722054,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8506493506493507,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.3157894736842105,
+              "same_vehicle_recall": 0.8942598187311178,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.39436619718309857,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.004531722054380665,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.0,
+              "same_vehicle_recall": 0.006493506493506494,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 3,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.3236842105263158,
+              "same_vehicle_recall": 0.9003021148036254,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.39436619718309857,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.37105263157894736,
+              "same_vehicle_recall": 0.9305135951661632,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.43661971830985913,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.015789473684210527,
+              "same_vehicle_recall": 0.3806646525679758,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.4090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.3026315789473684,
+              "same_vehicle_recall": 0.9501510574018127,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.3380281690140845,
+              "same_vehicle_recall": 0.961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.1868421052631579,
+              "same_vehicle_recall": 0.8398791540785498,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.8896103896103896,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.26842105263157895,
+              "same_vehicle_recall": 0.8897280966767371,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.323943661971831,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.16578947368421051,
+              "same_vehicle_recall": 0.879154078549849,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.6236842105263158,
+              "same_vehicle_recall": 0.947129909365559,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.6338028169014085,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.17105263157894737,
+              "same_vehicle_recall": 0.8293051359516617,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.08421052631578947,
+              "same_vehicle_recall": 0.8051359516616314,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.12105263157894737,
+              "same_vehicle_recall": 0.850453172205438,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.8831168831168831,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.8081570996978852,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.8571428571428571,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.22105263157894736,
+              "same_vehicle_recall": 0.8897280966767371,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.13157894736842105,
+              "same_vehicle_recall": 0.7522658610271903,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.11267605633802817,
+              "same_vehicle_recall": 0.7727272727272727,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.25263157894736843,
+              "same_vehicle_recall": 0.8716012084592145,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 4,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.8655589123867069,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.15263157894736842,
+              "same_vehicle_recall": 0.8383685800604229,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.09859154929577464,
+              "same_vehicle_recall": 0.8831168831168831,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.23421052631578948,
+              "same_vehicle_recall": 0.8338368580060423,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.010526315789473684,
+              "same_vehicle_recall": 0.6163141993957704,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.028169014084507043,
+              "same_vehicle_recall": 0.7662337662337663,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.2894736842105263,
+              "same_vehicle_recall": 0.9018126888217523,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.352112676056338,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.12105263157894737,
+              "same_vehicle_recall": 0.850453172205438,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.20526315789473684,
+              "same_vehicle_recall": 0.9063444108761329,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.30985915492957744,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.5368421052631579,
+              "same_vehicle_recall": 0.9803625377643505,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.5915492957746479,
+              "same_vehicle_recall": 0.9935064935064936,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.10263157894736842,
+              "same_vehicle_recall": 0.8217522658610272,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.15789473684210525,
+              "same_vehicle_recall": 0.8474320241691843,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9025974025974026,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.16842105263157894,
+              "same_vehicle_recall": 0.8927492447129909,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.21578947368421053,
+              "same_vehicle_recall": 0.850453172205438,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.13157894736842105,
+              "same_vehicle_recall": 0.8685800604229608,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.7990936555891238,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.8311688311688312,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.1394736842105263,
+              "same_vehicle_recall": 0.8293051359516617,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 5,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.18947368421052632,
+              "same_vehicle_recall": 0.8700906344410876,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.1368421052631579,
+              "same_vehicle_recall": 0.8610271903323263,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.14210526315789473,
+              "same_vehicle_recall": 0.8187311178247734,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.12105263157894737,
+              "same_vehicle_recall": 0.8534743202416919,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.3631578947368421,
+              "same_vehicle_recall": 0.9229607250755287,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4647887323943662,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.2657894736842105,
+              "same_vehicle_recall": 0.9214501510574018,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.3380281690140845,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.18421052631578946,
+              "same_vehicle_recall": 0.8474320241691843,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.9025974025974026,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.24736842105263157,
+              "same_vehicle_recall": 0.9078549848942599,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.17894736842105263,
+              "same_vehicle_recall": 0.8746223564954683,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.10263157894736842,
+              "same_vehicle_recall": 0.850453172205438,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.20526315789473684,
+              "same_vehicle_recall": 0.9305135951661632,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.17894736842105263,
+              "same_vehicle_recall": 0.8595166163141994,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.20526315789473684,
+              "same_vehicle_recall": 0.9244712990936556,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.05526315789473684,
+              "same_vehicle_recall": 0.6555891238670695,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.7272727272727273,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.8202416918429003,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 6,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.15,
+              "same_vehicle_recall": 0.8640483383685801,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.1868421052631579,
+              "same_vehicle_recall": 0.9169184290030211,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.974025974025974,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.15,
+              "same_vehicle_recall": 0.8897280966767371,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.922077922077922,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.19210526315789472,
+              "same_vehicle_recall": 0.9410876132930514,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.974025974025974,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.8640483383685801,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.11842105263157894,
+              "same_vehicle_recall": 0.877643504531722,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.2657894736842105,
+              "same_vehicle_recall": 0.8957703927492447,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.36619718309859156,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.32105263157894737,
+              "same_vehicle_recall": 0.9546827794561934,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.9935064935064936,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.2736842105263158,
+              "same_vehicle_recall": 0.9078549848942599,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.19210526315789472,
+              "same_vehicle_recall": 0.8987915407854985,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.05526315789473684,
+              "same_vehicle_recall": 0.7854984894259819,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.07042253521126761,
+              "same_vehicle_recall": 0.8246753246753247,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.10263157894736842,
+              "same_vehicle_recall": 0.7945619335347432,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.8831168831168831,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.15263157894736842,
+              "same_vehicle_recall": 0.8761329305135952,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.16578947368421051,
+              "same_vehicle_recall": 0.9033232628398792,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.22894736842105262,
+              "same_vehicle_recall": 0.8987915407854985,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.30985915492957744,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 7,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.11842105263157894,
+              "same_vehicle_recall": 0.7885196374622356,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.8311688311688312,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.06578947368421052,
+              "same_vehicle_recall": 0.8293051359516617,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.12894736842105264,
+              "same_vehicle_recall": 0.877643504531722,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.16578947368421051,
+              "same_vehicle_recall": 0.9214501510574018,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.24210526315789474,
+              "same_vehicle_recall": 0.8867069486404834,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.30985915492957744,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.25526315789473686,
+              "same_vehicle_recall": 0.9093655589123867,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.2236842105263158,
+              "same_vehicle_recall": 0.8716012084592145,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.30985915492957744,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.2736842105263158,
+              "same_vehicle_recall": 0.9018126888217523,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.3973684210526316,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4788732394366197,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.1763157894736842,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.28421052631578947,
+              "same_vehicle_recall": 0.9577039274924471,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.39436619718309857,
+              "same_vehicle_recall": 0.974025974025974,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.8580060422960725,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.9090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.06842105263157895,
+              "same_vehicle_recall": 0.850453172205438,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.09859154929577464,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.2026315789473684,
+              "same_vehicle_recall": 0.9169184290030211,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.06578947368421052,
+              "same_vehicle_recall": 0.7054380664652568,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.08450704225352113,
+              "same_vehicle_recall": 0.7987012987012987,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 8,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.15263157894736842,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.23157894736842105,
+              "same_vehicle_recall": 0.9274924471299094,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.28169014084507044,
+              "same_vehicle_recall": 0.987012987012987,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8353474320241692,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.8506493506493507,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.1,
+              "same_vehicle_recall": 0.8610271903323263,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.1763157894736842,
+              "same_vehicle_recall": 0.8429003021148036,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.16052631578947368,
+              "same_vehicle_recall": 0.9078549848942599,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.1631578947368421,
+              "same_vehicle_recall": 0.8625377643504532,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.2894736842105263,
+              "same_vehicle_recall": 0.9229607250755287,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.3105263157894737,
+              "same_vehicle_recall": 0.9093655589123867,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.4084507042253521,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.1763157894736842,
+              "same_vehicle_recall": 0.9123867069486404,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.28169014084507044,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.15789473684210525,
+              "same_vehicle_recall": 0.9154078549848943,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.12631578947368421,
+              "same_vehicle_recall": 0.797583081570997,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.8441558441558441,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.07631578947368421,
+              "same_vehicle_recall": 0.7764350453172205,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.09859154929577464,
+              "same_vehicle_recall": 0.8766233766233766,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.18947368421052632,
+              "same_vehicle_recall": 0.8957703927492447,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.2236842105263158,
+              "same_vehicle_recall": 0.8912386706948641,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.23943661971830985,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 9,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.14210526315789473,
+              "same_vehicle_recall": 0.797583081570997,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.8636363636363636,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.07105263157894737,
+              "same_vehicle_recall": 0.8474320241691843,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.09859154929577464,
+              "same_vehicle_recall": 0.922077922077922,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.07105263157894737,
+              "same_vehicle_recall": 0.8157099697885196,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.8311688311688312,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.10526315789473684,
+              "same_vehicle_recall": 0.8731117824773413,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.9090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.12894736842105264,
+              "same_vehicle_recall": 0.824773413897281,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.8636363636363636,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.26052631578947366,
+              "same_vehicle_recall": 0.8987915407854985,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.922077922077922,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.1736842105263158,
+              "same_vehicle_recall": 0.8459214501510574,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.8701298701298701,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.2631578947368421,
+              "same_vehicle_recall": 0.8897280966767371,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.19736842105263158,
+              "same_vehicle_recall": 0.8413897280966768,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.29577464788732394,
+              "same_vehicle_recall": 0.8961038961038961,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.16842105263157894,
+              "same_vehicle_recall": 0.9063444108761329,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.935064935064935,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.11578947368421053,
+              "same_vehicle_recall": 0.9003021148036254,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.922077922077922,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.1868421052631579,
+              "same_vehicle_recall": 0.8368580060422961,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.8896103896103896,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.20526315789473684,
+              "same_vehicle_recall": 0.9214501510574018,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.30985915492957744,
+              "same_vehicle_recall": 0.9675324675324676,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.18157894736842106,
+              "same_vehicle_recall": 0.9108761329305136,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.22535211267605634,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.23421052631578948,
+              "same_vehicle_recall": 0.9138972809667674,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      },
+      {
+        "round": 10,
+        "metrics": {
+          "0": {
+            "overall": {
+              "different_vehicle_fpr": 0.12368421052631579,
+              "same_vehicle_recall": 0.8564954682779456,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "1": {
+            "overall": {
+              "different_vehicle_fpr": 0.2236842105263158,
+              "same_vehicle_recall": 0.9395770392749244,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2676056338028169,
+              "same_vehicle_recall": 0.9935064935064936,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "2": {
+            "overall": {
+              "different_vehicle_fpr": 0.08421052631578947,
+              "same_vehicle_recall": 0.877643504531722,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.14084507042253522,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "3": {
+            "overall": {
+              "different_vehicle_fpr": 0.10789473684210527,
+              "same_vehicle_recall": 0.8746223564954683,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.19718309859154928,
+              "same_vehicle_recall": 0.9285714285714286,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "4": {
+            "overall": {
+              "different_vehicle_fpr": 0.1,
+              "same_vehicle_recall": 0.8066465256797583,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.16901408450704225,
+              "same_vehicle_recall": 0.8376623376623377,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "5": {
+            "overall": {
+              "different_vehicle_fpr": 0.21842105263157896,
+              "same_vehicle_recall": 0.9033232628398792,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.28169014084507044,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "6": {
+            "overall": {
+              "different_vehicle_fpr": 0.1394736842105263,
+              "same_vehicle_recall": 0.8595166163141994,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.9155844155844156,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "7": {
+            "overall": {
+              "different_vehicle_fpr": 0.1868421052631579,
+              "same_vehicle_recall": 0.9093655589123867,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.9415584415584416,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "8": {
+            "overall": {
+              "different_vehicle_fpr": 0.17105263157894737,
+              "same_vehicle_recall": 0.8564954682779456,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.18309859154929578,
+              "same_vehicle_recall": 0.9090909090909091,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "9": {
+            "overall": {
+              "different_vehicle_fpr": 0.25,
+              "same_vehicle_recall": 0.9169184290030211,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2535211267605634,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "10": {
+            "overall": {
+              "different_vehicle_fpr": 0.2789473684210526,
+              "same_vehicle_recall": 0.9335347432024169,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.38028169014084506,
+              "same_vehicle_recall": 0.948051948051948,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "11": {
+            "overall": {
+              "different_vehicle_fpr": 0.11052631578947368,
+              "same_vehicle_recall": 0.8308157099697885,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.8896103896103896,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "12": {
+            "overall": {
+              "different_vehicle_fpr": 0.18947368421052632,
+              "same_vehicle_recall": 0.9199395770392749,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.2112676056338028,
+              "same_vehicle_recall": 0.9545454545454546,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "13": {
+            "overall": {
+              "different_vehicle_fpr": 0.12368421052631579,
+              "same_vehicle_recall": 0.8927492447129909,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.15492957746478872,
+              "same_vehicle_recall": 0.922077922077922,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          },
+          "14": {
+            "overall": {
+              "different_vehicle_fpr": 0.08947368421052632,
+              "same_vehicle_recall": 0.8534743202416919,
+              "n_different_vehicle_pairs": 380,
+              "n_same_vehicle_pairs": 662
+            },
+            "regime": {
+              "different_vehicle_fpr": 0.1267605633802817,
+              "same_vehicle_recall": 0.922077922077922,
+              "n_different_vehicle_pairs": 71,
+              "n_same_vehicle_pairs": 154
+            }
+          }
+        }
+      }
+    ]
+  },
+  "summary": {
+    "static": {
+      "seed_final_gain": 0.051948051948051965,
+      "per_vehicle": {
+        "0": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "1": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "2": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "3": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "4": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "5": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "6": {
+          "hop_distance": 0,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.9155844155844156,
+          "final_regime_recall": 0.9675324675324676
+        },
+        "7": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "8": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "9": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "10": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "11": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "12": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "13": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "14": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": 1,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        }
+      }
+    },
+    "traffic": {
+      "seed_final_gain": 0.0,
+      "per_vehicle": {
+        "0": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9155844155844156
+        },
+        "1": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9935064935064936
+        },
+        "2": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9155844155844156
+        },
+        "3": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9285714285714286
+        },
+        "4": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.8376623376623377
+        },
+        "5": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9415584415584416
+        },
+        "6": {
+          "hop_distance": 0,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.9155844155844156,
+          "final_regime_recall": 0.9155844155844156
+        },
+        "7": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9415584415584416
+        },
+        "8": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9090909090909091
+        },
+        "9": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "10": {
+          "hop_distance": 2,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.948051948051948
+        },
+        "11": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.8896103896103896
+        },
+        "12": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.9545454545454546
+        },
+        "13": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.922077922077922
+        },
+        "14": {
+          "hop_distance": 1,
+          "rounds_to_80pct_transfer": null,
+          "baseline_regime_recall": 0.8376623376623377,
+          "final_regime_recall": 0.922077922077922
+        }
+      }
+    }
+  }
+}

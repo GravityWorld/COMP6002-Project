@@ -1,0 +1,46 @@
+| file | axis_or_arm | final_round | n_rounds_saved | dv_fpr_mean | dv_fpr_min | dv_fpr_max | sv_recall_mean | sv_recall_min | sv_recall_max | note |
+|---|---|---|---|---|---|---|---|---|---|---|
+| baseline_arms.json | frozen_head | 0 | 1 | 0.0421 | 0.0421 | 0.0421 | 0.7779 | 0.7779 | 0.7779 |  |
+| baseline_arms.json | local_only | 8 | 8 | 0.1589 | 0.0763 | 0.2579 | 0.8594 | 0.7598 | 0.9441 |  |
+| baseline_arms_test.json | local_only | 8 | 8 | 0.1867 | 0.0789 | 0.3289 | 0.8804 | 0.7492 | 0.9562 |  |
+| baseline_arms_test2.json | local_only | 8 | 8 | 0.1509 | 0.0289 | 0.3342 | 0.8362 | 0.6934 | 0.9260 |  |
+| DFL-E08-four-arm-10round.json | frozen_head | 0 | 1 | 0.0421 | 0.0421 | 0.0421 | 0.7779 | 0.7779 | 0.7779 |  |
+| DFL-E08-four-arm-10round.json | local_only | 10 | 10 | 0.1639 | 0.0632 | 0.2500 | 0.8805 | 0.8006 | 0.9033 |  |
+| DFL-E08-four-arm-10round.json | centralised_fedavg | 10 | 10 | 0.1132 | 0.1132 | 0.1132 | 0.9184 | 0.9184 | 0.9184 |  |
+| DFL-E08-four-arm-10round.json | dfl | 10 | 10 | 0.1667 | 0.0605 | 0.3105 | 0.8710 | 0.6858 | 0.9335 |  |
+| DFL-E10-degree-sweep.json | degree_0 | 10 | 10 | 0.1649 | 0.0789 | 0.2474 | 0.8788 | 0.8187 | 0.9290 |  |
+| DFL-E10-degree-sweep.json | degree_2 | 10 | 10 | 0.0946 | 0.0000 | 0.2711 | 0.6105 | 0.0891 | 0.9199 |  |
+| DFL-E10-degree-sweep.json | degree_5 | 10 | 10 | 0.2204 | 0.0000 | 0.6237 | 0.7082 | 0.0000 | 0.9683 |  |
+| DFL-E10-degree-sweep.json | degree_10 | 10 | 10 | 0.2063 | 0.0211 | 0.5632 | 0.8713 | 0.7190 | 0.9743 |  |
+| DFL-E10-degree-sweep.json | degree_14 | 10 | 10 | 0.1132 | 0.1132 | 0.1132 | 0.9215 | 0.9215 | 0.9215 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.00_attack=none | 8 | 8 | 0.1447 | 0.1447 | 0.1447 | 0.9139 | 0.9139 | 0.9139 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.10_attack=large_norm | 8 | 8 | 0.1982 | 0.1789 | 0.2000 | 0.9155 | 0.9094 | 0.9230 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.10_attack=sign_flip | 8 | 8 | 0.1889 | 0.1789 | 0.1921 | 0.9169 | 0.9094 | 0.9245 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.20_attack=large_norm | 8 | 8 | 0.2105 | 0.1921 | 0.2289 | 0.9093 | 0.8912 | 0.9245 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.20_attack=sign_flip | 8 | 8 | 0.1504 | 0.1079 | 0.1737 | 0.9153 | 0.8973 | 0.9305 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.30_attack=large_norm | 8 | 8 | 0.1781 | 0.1421 | 0.1895 | 0.9162 | 0.9003 | 0.9305 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.30_attack=sign_flip | 8 | 8 | 0.1532 | 0.1184 | 0.2053 | 0.9143 | 0.8988 | 0.9290 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.40_attack=large_norm | 8 | 8 | 0.1461 | 0.1289 | 0.1711 | 0.9095 | 0.8837 | 0.9305 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=average_f=0.40_attack=sign_flip | 8 | 8 | 0.2018 | 0.1895 | 0.2316 | 0.8915 | 0.8822 | 0.9063 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.00_attack=none | 8 | 8 | 0.1395 | 0.1395 | 0.1395 | 0.9154 | 0.9154 | 0.9154 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.10_attack=large_norm | 8 | 8 | 0.1726 | 0.1500 | 0.1816 | 0.9136 | 0.9109 | 0.9139 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.10_attack=sign_flip | 8 | 8 | 0.1070 | 0.0842 | 0.1526 | 0.9044 | 0.8943 | 0.9094 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.20_attack=large_norm | 8 | 8 | 0.1530 | 0.1289 | 0.1579 | 0.9350 | 0.9184 | 0.9456 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.20_attack=sign_flip | 8 | 8 | 0.1879 | 0.1789 | 0.2158 | 0.9319 | 0.8988 | 0.9426 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.30_attack=large_norm | 8 | 8 | 0.1646 | 0.1368 | 0.1684 | 0.9270 | 0.9124 | 0.9396 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.30_attack=sign_flip | 8 | 8 | 0.0307 | 0.0132 | 0.0368 | 0.7735 | 0.6949 | 0.8202 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.40_attack=large_norm | 8 | 8 | 0.1242 | 0.0842 | 0.1368 | 0.8976 | 0.8686 | 0.9033 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=trimmed_mean_f=0.40_attack=sign_flip | 8 | 8 | 0.1044 | 0.1000 | 0.1447 | 0.8462 | 0.8338 | 0.8716 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.00_attack=none | 8 | 8 | 0.1211 | 0.1211 | 0.1211 | 0.9245 | 0.9245 | 0.9245 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.10_attack=large_norm | 8 | 8 | 0.1460 | 0.1211 | 0.1526 | 0.9136 | 0.9094 | 0.9139 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.10_attack=sign_flip | 8 | 8 | 0.1147 | 0.0842 | 0.1316 | 0.9125 | 0.9094 | 0.9169 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.20_attack=large_norm | 8 | 8 | 0.1684 | 0.1368 | 0.2000 | 0.9231 | 0.9154 | 0.9320 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.20_attack=sign_flip | 8 | 8 | 0.1396 | 0.1000 | 0.1711 | 0.9229 | 0.9109 | 0.9260 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.30_attack=large_norm | 8 | 8 | 0.1446 | 0.1237 | 0.1579 | 0.9118 | 0.9109 | 0.9169 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.30_attack=sign_flip | 8 | 8 | 0.1833 | 0.1500 | 0.2026 | 0.9194 | 0.9079 | 0.9260 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.40_attack=large_norm | 8 | 8 | 0.1668 | 0.1342 | 0.1816 | 0.9193 | 0.9079 | 0.9320 |  |
+| DFL-E11-poisoning-x-aggregation.json | rule=median_f=0.40_attack=sign_flip | 8 | 8 | 0.1704 | 0.1342 | 0.2237 | 0.8956 | 0.8882 | 0.9154 |  |
+| DFL-E12-comms-budget.json | fp32 | 8 | 8 | 0.1447 | 0.1447 | 0.1447 | 0.9124 | 0.9124 | 0.9124 |  |
+| DFL-E12-comms-budget.json | int8 | 8 | 8 | 0.1421 | 0.1421 | 0.1421 | 0.9139 | 0.9139 | 0.9139 |  |
+| DFL-E12-comms-budget.json | 1bit | 8 | 8 | 0.2005 | 0.1895 | 0.2132 | 0.9180 | 0.9094 | 0.9245 |  |
+| DFL-E13-diffusion-topology.json | diffusion_static (seed=6, bucket=range2_density0) | 6 | 7 | 0.1831 |  |  | 0.9286 |  |  | run not finished (6 rounds saved so far) -- summary not yet computed |

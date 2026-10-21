@@ -1,0 +1,109 @@
+{
+  "n_units": 43,
+  "n_pairs": 15353,
+  "mixed_excluded": 0,
+  "bucket_counts": {
+    "background-vehicle": 231,
+    "background-background": 14691,
+    "same-vehicle": 249,
+    "different-vehicle": 182
+  },
+  "results": {
+    "background-background": {
+      "head": {
+        "n": 14691,
+        "tp": 0.0,
+        "fp": 105.0,
+        "tn": 14586.0,
+        "fn": 0.0,
+        "clean_rate": 0.9928527670002042,
+        "fpr": 0.007147232999795793,
+        "recall": NaN,
+        "precision": 0.0
+      },
+      "denoise": {
+        "n": 14691,
+        "tp": 0.0,
+        "fp": 7286.0,
+        "tn": 7405.0,
+        "fn": 0.0,
+        "clean_rate": 0.5040500986998843,
+        "fpr": 0.49594990130011574,
+        "recall": NaN,
+        "precision": 0.0
+      }
+    },
+    "background-vehicle": {
+      "head": {
+        "n": 231,
+        "tp": 0.0,
+        "fp": 24.0,
+        "tn": 207.0,
+        "fn": 0.0,
+        "clean_rate": 0.8961038961038961,
+        "fpr": 0.1038961038961039,
+        "recall": NaN,
+        "precision": 0.0
+      },
+      "denoise": {
+        "n": 231,
+        "tp": 0.0,
+        "fp": 35.0,
+        "tn": 196.0,
+        "fn": 0.0,
+        "clean_rate": 0.8484848484848485,
+        "fpr": 0.15151515151515152,
+        "recall": NaN,
+        "precision": 0.0
+      }
+    },
+    "same-vehicle": {
+      "head": {
+        "n": 249,
+        "tp": 207.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 42.0,
+        "clean_rate": NaN,
+        "fpr": NaN,
+        "recall": 0.8313253012048193,
+        "precision": 1.0
+      },
+      "denoise": {
+        "n": 249,
+        "tp": 190.0,
+        "fp": 0.0,
+        "tn": 0.0,
+        "fn": 59.0,
+        "clean_rate": NaN,
+        "fpr": NaN,
+        "recall": 0.7630522088353414,
+        "precision": 1.0
+      }
+    },
+    "different-vehicle": {
+      "head": {
+        "n": 182,
+        "tp": 0.0,
+        "fp": 19.0,
+        "tn": 163.0,
+        "fn": 0.0,
+        "clean_rate": 0.8956043956043956,
+        "fpr": 0.1043956043956044,
+        "recall": NaN,
+        "precision": 0.0
+      },
+      "denoise": {
+        "n": 182,
+        "tp": 0.0,
+        "fp": 7.0,
+        "tn": 175.0,
+        "fn": 0.0,
+        "clean_rate": 0.9615384615384616,
+        "fpr": 0.038461538461538464,
+        "recall": NaN,
+        "precision": 0.0
+      }
+    }
+  }
+}
