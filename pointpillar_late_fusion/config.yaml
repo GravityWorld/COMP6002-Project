@@ -138,8 +138,8 @@ preprocess:
   core_method: SpVoxelPreprocessor
 # root_dir: "opv2v_data_dumping/train"
 # validate_dir: "opv2v_data_dumping/test_culver_city"
-root_dir: "C:/Arnav/University Work/Masters/Sem 2/Thesis Project/Data/culver_data"
-validate_dir: "C:/Arnav/University Work/Masters/Sem 2/Thesis Project/Data/culver_data"
+root_dir: "C:/Arnav/University Work/Masters/Sem 2/MastersProj/Data/sampledata"
+validate_dir: "C:/Arnav/University Work/Masters/Sem 2/MastersProj/Data/sampledata"
 yaml_parser: load_point_pillar_params
 wild_setting:
   seed: 20

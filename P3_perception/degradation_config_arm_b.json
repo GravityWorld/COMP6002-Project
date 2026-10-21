@@ -1,0 +1,6 @@
+{
+  "2021_09_03_20_08_37|1854": {"type": "fog", "severity": 1, "seed": 1},
+  "2021_09_03_20_08_37|1872": {"type": "fog", "severity": 2, "seed": 2},
+  "2021_09_03_22_43_57|832": {"type": "compression", "severity": 1, "seed": 3},
+  "2021_09_03_22_43_57|841": {"type": "compression", "severity": 2, "seed": 4}
+}

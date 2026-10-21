@@ -28,6 +28,18 @@ import re
 import pandas as pd
 import yaml
 
+# OPV2V's official train/validate/test splits (unlike the test_culver_city
+# extract used through Sep) dump raw numpy scalars straight into frame
+# yaml files via plain yaml.dump() -- yaml.safe_load() refuses the resulting
+# `!!python/object/apply:numpy.core.multiarray.scalar` tag on security
+# grounds. OpenCOOD's own opencood/hypes_yaml/yaml_utils.py:load_yaml()
+# already solves exactly this (it reads every frame yaml in OpenCOOD's own
+# pipeline) by using yaml.Loader instead of yaml.SafeLoader -- reused here
+# rather than inventing a second loader. Safe in this context since OPV2V's
+# yaml files are the project's own trusted downloaded dataset, not
+# untrusted/attacker-controlled input.
+from opencood.hypes_yaml.yaml_utils import load_yaml as _opencood_load_yaml
+
 MIN_CAV = 3
 
 # ASSUMPTION — verify with inspect_scenario() before trusting build_manifest().
@@ -71,8 +83,7 @@ def inspect_scenario(scenario_dir: str) -> None:
               "and structure directly.")
         return
 
-    with open(yaml_files[0]) as f:
-        sample = yaml.safe_load(f)
+    sample = _opencood_load_yaml(str(yaml_files[0]))
     print(f"Top-level keys in {yaml_files[0].name}: {list(sample.keys())}")
     print(f"Has explicit 'ego' key: {'ego' in sample}  (value: {sample.get('ego', 'N/A')})")
     print(f"Has 'lidar_pose': {'lidar_pose' in sample}")
@@ -163,8 +174,7 @@ def build_manifest(opv2v_root: str, out_path: str) -> pd.DataFrame:
             sample_frame = next(cav_dir.glob("*.yaml"), None)
             if sample_frame is None:
                 continue
-            with open(sample_frame) as f:
-                data = yaml.safe_load(f)
+            data = _opencood_load_yaml(str(sample_frame))
             if data.get("ego") is True:
                 ego_id = cid
                 break

@@ -3,3 +3,16 @@ data/
 *.pyc
 __init__.py
 OpenCOOD/
+__pycache__/
+*/cache/
+correction_head/checkpoints/*.pt
+correction_head/runs/*.pt
+correction_head/runs/improvements/*.pt
+pointpillar_late_fusion/net_epoch30.pth
+.vscode/settings.json
+
+\COMP6002_Project_AD_final.pdf
+sampledata/*
+Claude outputs/
+old/
+OpenCOOD/
